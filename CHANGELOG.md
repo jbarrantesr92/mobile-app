@@ -34,3 +34,5 @@
 
 ## refactor: migrate to new navigation library
 
+## fix: login screen freeze on slow connections
+
