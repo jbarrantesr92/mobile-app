@@ -28,3 +28,5 @@
 
 ## feat: implement background app refresh
 
+## fix: dark mode colors incorrect in settings
+
