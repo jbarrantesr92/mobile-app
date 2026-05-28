@@ -10,3 +10,5 @@
 
 ## feat: redesign onboarding flow
 
+## fix: push notifications not received Android 14
+
