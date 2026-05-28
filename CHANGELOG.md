@@ -4,3 +4,5 @@
 
 ## fix: crash on deep link handling iOS 17
 
+## feat: add dark mode support
+
