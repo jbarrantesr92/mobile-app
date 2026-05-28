@@ -24,3 +24,5 @@
 
 ## fix: slow scroll performance in feed
 
+## feat: add accessibility labels for screen readers
+
