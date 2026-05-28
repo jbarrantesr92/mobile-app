@@ -50,3 +50,5 @@
 
 ## fix: incorrect timezone in date display
 
+## perf: reduce bundle size by 30%
+
