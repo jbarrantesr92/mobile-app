@@ -40,3 +40,5 @@
 
 ## chore: upgrade React Native to 0.73
 
+## fix: images not loading in offline mode
+
