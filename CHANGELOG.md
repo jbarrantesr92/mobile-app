@@ -6,3 +6,5 @@
 
 ## feat: add dark mode support
 
+## fix: memory leak in map component
+
