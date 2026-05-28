@@ -36,3 +36,5 @@
 
 ## fix: login screen freeze on slow connections
 
+## feat: add haptic feedback to key interactions
+
