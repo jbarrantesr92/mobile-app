@@ -30,3 +30,5 @@
 
 ## fix: dark mode colors incorrect in settings
 
+## feat: add app rating prompt after 5 sessions
+
