@@ -22,3 +22,5 @@
 
 ## feat: add share functionality to product pages
 
+## fix: slow scroll performance in feed
+
