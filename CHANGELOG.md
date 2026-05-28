@@ -38,3 +38,5 @@
 
 ## feat: add haptic feedback to key interactions
 
+## chore: upgrade React Native to 0.73
+
