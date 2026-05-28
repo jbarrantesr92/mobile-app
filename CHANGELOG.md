@@ -52,3 +52,5 @@
 
 ## perf: reduce bundle size by 30%
 
+## feat: add skeleton loading states
+
