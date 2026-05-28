@@ -48,3 +48,5 @@
 
 ## feat: implement deep link routing
 
+## fix: incorrect timezone in date display
+
