@@ -18,3 +18,5 @@
 
 ## feat: add in-app purchase flow
 
+## fix: layout broken on small screens
+
