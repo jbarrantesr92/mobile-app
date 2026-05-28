@@ -42,3 +42,5 @@
 
 ## fix: images not loading in offline mode
 
+## feat: add pull-to-refresh on feed
+
