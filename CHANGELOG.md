@@ -56,3 +56,5 @@
 
 ## fix: keyboard overlaps input on Android
 
+## chore: update iOS deployment target to 16
+
