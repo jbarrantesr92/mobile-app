@@ -12,3 +12,5 @@
 
 ## fix: push notifications not received Android 14
 
+## feat: implement offline data sync
+
