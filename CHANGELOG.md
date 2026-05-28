@@ -58,3 +58,5 @@
 
 ## chore: update iOS deployment target to 16
 
+## feat: add error boundary components
+
