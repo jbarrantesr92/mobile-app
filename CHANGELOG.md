@@ -44,3 +44,5 @@
 
 ## feat: add pull-to-refresh on feed
 
+## test: add snapshot tests for core components
+
