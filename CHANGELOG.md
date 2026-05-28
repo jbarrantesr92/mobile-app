@@ -26,3 +26,5 @@
 
 ## feat: add accessibility labels for screen readers
 
+## feat: implement background app refresh
+
