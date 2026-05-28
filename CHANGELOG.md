@@ -54,3 +54,5 @@
 
 ## feat: add skeleton loading states
 
+## fix: keyboard overlaps input on Android
+
