@@ -20,3 +20,5 @@
 
 ## fix: layout broken on small screens
 
+## feat: add share functionality to product pages
+
