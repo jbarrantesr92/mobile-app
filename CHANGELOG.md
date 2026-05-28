@@ -14,3 +14,5 @@
 
 ## feat: implement offline data sync
 
+## perf: optimize image loading and caching
+
