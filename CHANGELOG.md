@@ -8,3 +8,5 @@
 
 ## fix: memory leak in map component
 
+## feat: redesign onboarding flow
+
